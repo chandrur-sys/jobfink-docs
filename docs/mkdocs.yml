@@ -1,0 +1,15 @@
+site_name: My Docs
+
+theme:
+  name: readthedocs
+  features:
+    - toc.integrate
+
+
+plugins:
+  - search
+ 
+
+extra_css:
+  - stylesheets/custom.css
+

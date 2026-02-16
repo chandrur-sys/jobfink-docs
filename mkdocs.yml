@@ -1,0 +1,27 @@
+site_name: My Docs
+
+nav:
+  - Login - Oneherms: index.md
+  - Course Approval:
+    - Apply for approval: "course approval/apply-for-approval.md"
+    - Course creation: "course approval/course-creation-new-maahanme.md"
+    - Massnahme approval: "course approval/Massnahme approval.md"
+    - Revision resubmit: "course approval/revision-resubmit.md"
+    - Final approval: "course approval/final-approval.md"
+  - Location Specific Massnahme:
+    - Location specific massnahme: "location-specific-massnahme/location speacific massnahme.md"
+    - Voucher mapping: "location-specific-massnahme/voucher-mapping.md"
+    - Apply for measure: "location-specific-massnahme/apply-for-measure.md"
+    - Measure number receipt: "location-specific-massnahme/measure-number-recipt.md"
+    - Course active: "location-specific-massnahme/course-active.md"
+   
+
+theme:
+  name: readthedocs
+
+plugins:
+  - search
+ 
+
+extra_css:
+  - stylesheets/custom.css
